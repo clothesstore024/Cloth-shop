@@ -1,0 +1,21 @@
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.production
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore sensitive information
+secrets.txt
